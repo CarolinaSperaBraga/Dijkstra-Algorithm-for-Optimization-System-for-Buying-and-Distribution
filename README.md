@@ -1,4 +1,4 @@
-# Dijkstra-Algorithm-for-Optimization-System-for-Buying-and-Distribution
+# Dijkstra Algorithm for Optimization System for Buying and Distribution
 
 # Project Overview
 
